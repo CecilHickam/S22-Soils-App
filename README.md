@@ -1,4 +1,4 @@
-# S22-Soils-App
+# Soil and Aquatic Data Visualization Project
 Final Capstone Project from spring 2022 Virginia Tech Environmental Data Science
 App was created for a scientist doing research in the Hubbard Brook Experimental Forest and needed more insight and data visualization with what she had collected. 
 
