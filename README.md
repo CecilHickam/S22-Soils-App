@@ -1,6 +1,13 @@
 # S22-Soils-App
 Final Capstone Project from spring 2022 Virginia Tech Environmental Data Science
-App was created for a scientist doing research in the Hubbard Brook Experimental Forest and needed more insight and data visualization with what she had collected.
+App was created for a scientist doing research in the Hubbard Brook Experimental Forest and needed more insight and data visualization with what she had collected. 
+
+Myself and three others created this using the Shiny package in R, using knowledge and skills we have gained from our college career.
+
+
+
+
+***APP FUNCTIONALITY***
 
 
 This app visualizes terrestrial and aqautic data collected from the Hubbard Brook Experimental Forest through reactive visualizations. Users can manipulate the data using various interactive elements found in both tabs.
